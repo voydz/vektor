@@ -1,6 +1,6 @@
 ## Project VeKtor
 
-> An World of Warcraft BGM Replacement AddOn
+> An World of Warcraft BGM (Background Music) Replacement AddOn
 
 ### Notice
 

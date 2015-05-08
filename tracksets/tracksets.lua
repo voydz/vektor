@@ -18,6 +18,18 @@ function T:Register()
 	T:RegisterMessage("V_UPDATE_RESTING", "OnUpdateResting")
 end
 
+-- todo: messaging system
+--
+--> prioritize events for music overwriting
+--> handle music playback here, dont let tracksets call playmusic/stopmusic
+--> handle music "retriggering" from the same event
+--> resume playback after higher ranked event dimishes (playhistory)
+--> failsave stopmusic to prevent obliterating the default bgm engine
+
+-- todo: looping
+--
+--> timetrigger new music for same event/region to prevent autoloop
+
 function T:Initialize(trackSetPath)
 end
 
