@@ -1,0 +1,5 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">	
+	<Script file='tracksets.lua' />
+	<Script file='capitals\capitals.lua'/>
+	<Script file='combat\combat.lua'/>
+</Ui>

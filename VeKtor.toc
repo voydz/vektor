@@ -1,0 +1,12 @@
+## Interface: 61000
+## Author: Voydz
+## Version: 0.1
+## Title: Project |cff1784d1VeKtor|r
+## Notes: Music engine replacement AddOn for World of Warcraft.
+
+libs\load_libs.xml
+
+init.lua
+
+core\load_core.xml
+tracksets\load_tracksets.xml
